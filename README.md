@@ -4,6 +4,7 @@ Aprendizado sobre Java Script - Curso Alura
 ## Funcionalidade
 - Jogo Multijogador - Duas pessoas.
 - Controles:
+
 | Controle | Jogador  1 | Jogador 2  |
 | ------------- | ------------- | ------------- |
 | Para cima  | " W " | " ↑ " |
